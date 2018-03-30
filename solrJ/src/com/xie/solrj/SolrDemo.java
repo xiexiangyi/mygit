@@ -1,4 +1,4 @@
-package com.itheima.solrj;
+package com.xie.solrj;
 
 import org.apache.solr.client.solrj.SolrQuery;
 import org.apache.solr.client.solrj.SolrServer;

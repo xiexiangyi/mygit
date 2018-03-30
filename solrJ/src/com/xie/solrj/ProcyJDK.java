@@ -1,4 +1,4 @@
-package com.itheima.solrj;
+package com.xie.solrj;
 
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;
